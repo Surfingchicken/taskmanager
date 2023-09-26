@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.css-5lbw0b-MuiTypography-root{
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.css-yexsw7-MuiGrid-root{
+  display: inline-block !important;
+  width: 70vw !important;
+  margin: 2rem auto !important;
+  border: solid 0.1rem;
+  border-radius: 1rem;
+}
+.css-11lq3yg-MuiGrid-root{
+  border-bottom: solid 0.1rem;
+  
+}
+.listtask>.css-11lq3yg-MuiGrid-root:first-of-type{
+  background-color: #175557;
+  color: #fff;
+  border-radius: 1rem 1rem 0 0;
+  padding: 1rem 0;
+}
+.css-11lq3yg-MuiGrid-root:last-of-type{
+  border-bottom: none;
+}
+
+.css-ag7rrr-MuiTypography-root{
+  margin: 2rem !important;
+}
+.createform{
+  width: 70vw !important;
+  
+  margin: auto !important;
+  background-color: #fff;
+}
+
+.css-1nrlq1o-MuiFormControl-root{
+  width: 100%;
+}
